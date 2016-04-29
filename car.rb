@@ -10,4 +10,8 @@ class Car
     "This car has #{color} color and a capacity of #{capacity}"
   end
 
+  def stop
+    "Screeeeeeeeeeeeeeeeetch!"
+  end
+
 end
