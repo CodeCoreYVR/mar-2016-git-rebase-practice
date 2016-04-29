@@ -14,4 +14,8 @@ class Car
     "Screeeeeeeeeeeeeeeeetch!"
   end
 
+  def max_speed
+    200
+  end
+
 end
