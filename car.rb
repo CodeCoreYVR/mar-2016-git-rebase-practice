@@ -18,4 +18,8 @@ class Car
     200
   end
 
+  def honk
+    "Beep Beep!"
+  end
+
 end
